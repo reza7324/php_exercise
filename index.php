@@ -1,6 +1,6 @@
 <?php
 
-
+//tamrin تابع بنویسم که دقیقه رو به ثانیه تبدیل کنه
 
 function seconds($m){
 
